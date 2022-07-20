@@ -8,13 +8,25 @@ NRC: 7322
 
 ESP:DARWIN OMAR ALULEMA FLORES
 
-Objetivo General:
+Objetivo General: Identificar una forma de onda sinusoidal y medir sus características que  generan las ondas seno y asi determinar  diversos valores de voltaje y corriente de una onda seno relacionando angulares de una onda seno de una forma de ondasinusoidal
 
-Objetivos Especificos:
+Objetivos Especificos: Describir la construcción y las características básicas de un capacitor  tipos de capacitores ya sea capacitores en serie- paralelo Analizar circuitos de cd con capacitores conmutados
 
-Objetivos Especificos:
+Objetivos Especificos: Analizar circuitos de ca capacitivos examinar algunas aplicaciones de los capacitores estudiar la operación de circuitos conmutados por
+un capacitor.
 
 Marco Teorico:
+
+![](https://github.com/aicanarejo/Informe-6/blob/main/a.png)
+
+![](https://github.com/aicanarejo/Informe-6/blob/main/b.png)
+
+![](https://github.com/aicanarejo/Informe-6/blob/main/c.png)
+
+![](https://github.com/aicanarejo/Informe-6/blob/main/d.png)
+
+![](https://github.com/aicanarejo/Informe-6/blob/main/e.png)
+
 
 Resolucion de ejercicios y Problemas
 
@@ -198,14 +210,26 @@ SECCIÓN 12–2 Tipos de capacitores
 14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área
 de placas?
 
-![](https://github.com/aicanarejo/Informe-6/blob/main/41.jpeg)
 
-![](https://github.com/aicanarejo/Informe-6/blob/main/42.jpeg)
 
 16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la
 figura 12-66.0.1 mF 0.0025 mF 4.7 mF
 
+![](https://github.com/aicanarejo/Informe-6/blob/main/41.jpeg)
+
+![](https://github.com/aicanarejo/Informe-6/blob/main/42.jpeg)
+
 18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67. 
+
+![](https://github.com/aicanarejo/Informe-6/blob/main/43.jpeg)
+
+a)Encapsulación
+
+b)Dielectrico(disco de ceramica)
+
+c)Placa(disco de metal)
+
+d)Cables conductores
 
 SECCIÓN 12–3 Capacitores en serie
 
@@ -320,7 +344,7 @@ SECCIÓN 12–7 Aplicaciones de los capacitores
 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de
 10 kHz en un punto dado en un circuito amplificador?
 
-![](
+-
 
 SECCIÓN 12–8 Circuitos de capacitor conmutado
 
@@ -328,7 +352,17 @@ SECCIÓN 12–8 Circuitos de capacitor conmutado
 ¿Qué valor de resistor se emula?
 
 
+Video
 
+Concluciones 
+
+a) Observar el comportamiento de la ondas senoidales esto puede ayudar  a tener una nocion obteniendo graficas estadisticas fisica en el comportamiento de un circuito analizado.
+
+b) Tras la visualización  capitulo 12 existieron  nuevos componentes como el funcionamiento de los capacitores o sus partes haciendo de una suma utilidad de para que sirven y como pueden mejor en nuestros circuitos.
+
+Bibliografia
+
+Thomas L. Floyd(2007). Principios de circuitos eléctricos. Octava edición
 
 
 
