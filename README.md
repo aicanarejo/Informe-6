@@ -22,7 +22,7 @@ SECCIÓN 11–1 La forma de onda sinusoidal
 
 2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
 
-![](
+![](https://github.com/aicanarejo/Informe-6/blob/main/1.jpeg)
 
 4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms
 
