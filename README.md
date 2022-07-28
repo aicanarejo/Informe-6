@@ -355,6 +355,8 @@ R= 1/fc = 1/(8kHz)(100pf)= 1250k
 
 Video
 
+https://youtu.be/4F-wqEMsZTs
+
 Concluciones 
 
 a) Observar el comportamiento de la ondas senoidales esto puede ayudar  a tener una nocion obteniendo graficas estadisticas fisica en el comportamiento de un circuito analizado.
